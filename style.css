@@ -1,0 +1,29 @@
+
+body{
+    background: rgb(233, 233, 233);
+}
+h1   {color: rgb(136, 10, 10);}
+p    {color: Black;}
+h1 {
+   
+    font-family: verdana;
+    font-size: 100%;
+  }
+  p {
+    
+    font-family: courier;
+    font-size: 90%;
+    border: 2px solid rgb(0, 0, 0);
+  padding: 30px;
+  }
+  table, th, td {
+    border: 1px solid black;
+  }
+  img {
+    
+    border-radius: 8px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+  }
